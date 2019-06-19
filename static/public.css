@@ -1,0 +1,16 @@
+.crop {
+    height: 550px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.crop img {
+    height: auto;
+    width: 75%;
+}}
+
+.resource {
+    height: 20px;
+    width: 100%;
+    overflow: hidden;
+}
